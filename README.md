@@ -28,8 +28,3 @@
 pip install -r requirements.txt
 python src/project.py
 ```
-
-## Notes
-
-- 대용량 동영상 파일과 로그 파일은 GitHub 저장소를 무겁게 만들 수 있어 제외했습니다.
-- 원본 프로젝트 폴더에는 작업 중 생성된 중간 산출물과 중복 데이터 파일이 더 있습니다.
